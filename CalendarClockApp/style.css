@@ -118,15 +118,15 @@ body{
     z-index: -1;
 }
 
-.calendar .show days li.active::before{
+.calendar .show .days li.active::before{
     background: crimson;
 }
 
-.calendar .show days li:hover::before{
+.calendar .show .days li:hover::before{
     border: 1px solid #fff;
 }
 
-.calendar .show days li.inactive{
+.calendar .show .days li.inactive{
     color: #999;
 }
 
