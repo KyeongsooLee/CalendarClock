@@ -19,12 +19,16 @@ button{
 }
 
 body{
+    margin: 50px;
+    background: aliceblue;
+}
+
+.body-container{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: start;
     min-height: 100vh;
     width: 100%;
-    background: aliceblue;
 }
 
 .container{
