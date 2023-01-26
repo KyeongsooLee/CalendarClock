@@ -28,14 +28,14 @@ body{
     justify-content: center;
     align-items: start;
     min-height: 100vh;
-    width: 100%;
+    
 }
 
 .container{
     width: 400px;
     background: #000332;
     color: #fff;
-    box-shadow: 0 0 100px #73b2ff;
+    box-shadow: 0 0 100px #73c2ff;
     border: 1px solid #f1f1f1;
 }
 
